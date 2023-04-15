@@ -1,0 +1,236 @@
+[
+    {
+        "id": "soporte-01",
+        "titulo": "Spiderman",
+        "imagen": "./fotos/1.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "soporte-01",
+        "titulo": "Nemesis",
+        "imagen": "./fotos/2.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "soporte-03",
+        "titulo": "Ghost MW",
+        "imagen": "./fotos/3.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "soporte-04",
+        "titulo": "Scorpion",
+        "imagen": "./fotos/4.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "soporte-05",
+        "titulo": "Sub Zero",
+        "imagen": "./fotos/5.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },    {
+        "id": "soporte-06",
+        "titulo": "Venom",
+        "imagen": "./fotos/6.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },    {
+        "id": "soporte-07",
+        "titulo": "Iron Man",
+        "imagen": "./fotos/7.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },    {
+        "id": "soporte-08",
+        "titulo": "Mando (Din Jarin)",
+        "imagen": "./fotos/8.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },    {
+        "id": "soporte-09",
+        "titulo": "Kratos",
+        "imagen": "./fotos/9.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },    {
+        "id": "soporte-10",
+        "titulo": "Boba Fett",
+        "imagen": "./fotos/10.jpg",
+        "categoria": {
+            "nombre": "Soportes",
+            "id": "soportes"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "pokemon-01",
+        "titulo": "Pikachu",
+        "imagen": "./fotos/Pikachu.png",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pokemon-02",
+        "titulo": "Dragonite",
+        "imagen": "./fotos/Dragonite.jpg",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pokemon-03",
+        "titulo": "Bulbasaur",
+        "imagen": "./fotos/Bulbasaur.png",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pokemon-04",
+        "titulo": "Gengar",
+        "imagen": "./fotos/Gengar.png",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pokemon-05",
+        "titulo": "Charizard",
+        "imagen": "./fotos/Charizard.jpg",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pokemon-06",
+        "titulo": "Ninetales",
+        "imagen": "./fotos/Ninetales.jpg",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pokemon-07",
+        "titulo": "Dragonite",
+        "imagen": "./fotos/Charmander.png",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pokemon-08",
+        "titulo": "Psyduck",
+        "imagen": "./fotos/Psyduck.jpg",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pokemon-09",
+        "titulo": "Squirtle",
+        "imagen": "./fotos/Squirtle.jpg",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },    {
+        "id": "pokemon-10",
+        "titulo": "Eevee",
+        "imagen": "./fotos/Eevee.png",
+        "categoria": {
+            "nombre": "Pokemons",
+            "id": "pokemons"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "Copa Fernet-01",
+        "titulo": "Copa Fernetera 1LT",
+        "imagen": "./fotos/Copa Fernet.jpg",
+        "categoria": {
+            "nombre": "Copa Fernetera",
+            "id": "copa fernetera"
+        },
+        "precio": 9000
+    },
+    {
+        "id": "Copa Fernet-02",
+        "titulo": "Copa Fernetera 750ML",
+        "imagen": "./fotos/Copa Fernet.jpg",
+        "categoria": {
+            "nombre": "Copa Fernetera",
+            "id": "copa fernetera"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "Copa Fernet-03",
+        "titulo": "Copa Fernetera 500ML",
+        "imagen": "./fotos/Copa Fernet.jpg",
+        "categoria": {
+            "nombre": "Copa Fernetera",
+            "id": "copa fernetera"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "Copa Fernet-04",
+        "titulo": "Chop Messi",
+        "imagen": "./fotos/Chop Fernet.jpg",
+        "categoria": {
+            "nombre": "Copa Fernetera",
+            "id": "copa fernetera"
+        },
+        "precio": 5000
+    }
+]
